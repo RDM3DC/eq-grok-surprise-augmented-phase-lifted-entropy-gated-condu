@@ -41,3 +41,14 @@ notes/        # Research notes and references
 
 ---
 *Part of the [TopEquations](https://github.com/RDM3DC/TopEquations) project.*
+
+
+## Contributing Research Artifacts
+
+We welcome community contributions of simulations, derivations, experimental data, and visualizations.
+
+**How to contribute:**
+1. Open an issue using the "Add Research Artifact" template
+2. Or submit a PR adding files to the appropriate folder (images/, derivations/, simulations/, data/, notes/)
+
+See the main repo [CONTRIBUTING.md](https://github.com/RDM3DC/TopEquations/blob/main/CONTRIBUTING.md) for full guidelines.
